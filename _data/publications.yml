@@ -23,12 +23,11 @@ main:
 
   - title: "Camera-based 3d semantic scene completion with sparse guidance network"
     authors: Jianbiao Mei, <strong>Yu Yang</strong>, Mengmeng Wang, Junyu Zhu, Xiangrui Zhao, Jongwon Ra, Laijian Li, Yong Liu
-    conference_short: arXiv
-    conference: arXiv, 2024.
-    pdf: https://arxiv.org/pdf/2312.05752.pdf
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing, 33, 5468-5481.
+    pdf: https://ieeexplore.ieee.org/document/10694710
     code: https://github.com/Jieqianyu/SGN
-    bibtex: https://arxiv.org/abs/2312.05752
-    # notes: Under Review
+    bibtex: https://ieeexplore.ieee.org/document/10694710
     image: ./assets/img/teaser_SGN.png
 
   - title: "Exploit Spatiotemporal Contextual Information for 3D Single Object Tracking via Memory Networks"
