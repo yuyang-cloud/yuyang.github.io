@@ -24,7 +24,7 @@ main:
   - title: "Camera-based 3d semantic scene completion with sparse guidance network"
     authors: Jianbiao Mei, <strong>Yu Yang</strong>, Mengmeng Wang, Junyu Zhu, Xiangrui Zhao, Jongwon Ra, Laijian Li, Yong Liu
     conference_short: TIP
-    conference: IEEE Transactions on Image Processing, 33, 5468-5481.
+    conference: IEEE Transactions on Image Processing (TIP), 33, 5468-5481.
     pdf: https://ieeexplore.ieee.org/document/10694710
     code: https://github.com/Jieqianyu/SGN
     bibtex: https://ieeexplore.ieee.org/document/10694710
