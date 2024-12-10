@@ -3,7 +3,7 @@ main:
   - title: "Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving"
     authors: <strong>Yu Yang*</strong>, Jianbiao Mei*, Yukai Ma, Siliang Du, Wenqing Chen, Yijie Qian, Yuxiang Feng, Yong Liu
     conference_short: AAAI
-    conference: AAAI, 2025.
+    conference: AAAI Conference on Artificial Intelligence (AAAI), 2025.
     pdf: https://arxiv.org/pdf/2408.14197.pdf
     page: https://drive-occworld.github.io/
     code: https://github.com/yuyang-cloud/Drive-OccWorld
