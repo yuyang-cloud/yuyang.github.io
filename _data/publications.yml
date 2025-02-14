@@ -8,7 +8,7 @@ main:
     page: https://drive-occworld.github.io/
     code: https://github.com/yuyang-cloud/Drive-OccWorld
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rZT8ZvhiiiwJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxKZn8:AFWwaeYAAAAAZ1hMfn_VMSzuqknXtFZijKm4YXQ&scisig=AFWwaeYAAAAAZ1hMfh5vz7jvkJFpo8GOBW1eOuo&scisf=4&ct=citation&cd=-1
-    # notes: Under Review
+    notes: Oral
     image: ./assets/img/teaser_Drive_OccWorld.gif
 
   - title: "DQFormer: Towards Unified LiDAR Panoptic Segmentation with Decoupled Queries"
@@ -16,7 +16,7 @@ main:
     conference_short: arXiv
     conference: arXiv, 2024.
     pdf: https://arxiv.org/pdf/2408.15813.pdf
-    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    code: https://github.com/yuyang-cloud/DQFormer
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ut5DdNVMGGsJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxKsOs:AFWwaeYAAAAAZ1hMqOscujRnkbbR1hpGBcbOj4k&scisig=AFWwaeYAAAAAZ1hMqFTeAqu20QA60TO6wQaiFKc&scisf=4&ct=citation&cd=-1
     # notes: Under Review
