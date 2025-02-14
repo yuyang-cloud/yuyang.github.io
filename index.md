@@ -13,7 +13,7 @@ I am currently a Ph.D. candidate in the Department of Control Science and Engine
 
 ## News
 
-- **[Dec. 2025]** 📢 I joined the [CVRP Lab](https://www.comp.nus.edu.sg/~leegh/) at NUS as a visiting Ph.D. student.
+- **[Feb. 2025]** 📢 I joined the [CVRP Lab](https://www.comp.nus.edu.sg/~leegh/) at NUS as a visiting Ph.D. student.
 - **[Dec. 2024]** 🎉 Our paper [Drive-OccWorld](https://drive-occworld.github.io/) is accepted by *AAAI 2025 <span style="color: red;">(Oral)</span>* !
 - **[Sep. 2024]** 🎉 Our paper [SGN](https://arxiv.org/abs/2312.05752) is accepted by *2024 IEEE Transactions on Image Processing (TIP)* !
 - **[Jul. 2023]** 🎉 Our paper [CenterLPS](https://dl.acm.org/doi/abs/10.1145/3581783.3612080) is accepted by *2023 ACM MM* !
