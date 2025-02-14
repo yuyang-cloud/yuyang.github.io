@@ -9,7 +9,8 @@ I am currently a Ph.D. candidate in the Department of Control Science and Engine
 ## Research Interests
 
 - **3D Computer Vision**: 3D Perception and Understanding (*e.g.*, 3D object detection, 3D panoptic segmentation); Point Cloud Processing (*e.g.*, moving object segmentation, terrain estimation).
-- **Autonomous Driving:** World models, generative models, end-to-end autonomous driving.
+- **Autonomous Driving**: World Models, End-to-end Autonomous Driving.
+- **Generative Models**: 3D and 4D Scene Generation, Dynamic Scene Generation.
 
 ## News
 
