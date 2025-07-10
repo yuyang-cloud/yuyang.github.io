@@ -8,7 +8,7 @@ main:
     page: https://x-scene.github.io/
     code: https://github.com/yuyang-cloud/X-Scene
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:R_i0GSUcw8AJ:scholar.google.com/&output=citation&scisdr=CgLMcWWMEIL7lq6BedA:AAZF9b8AAAAAaG-HYdCfwdUzjYnUBoYj0U5GfBo&scisig=AAZF9b8AAAAAaG-HYVJXW8A-T-z1kZpmqGWrJB4&scisf=4&ct=citation&cd=-1
-    image: ./assets/img/teaser_X-Scene.webm
+    image: ./assets/img/teaser_X-Scene.gif
 
   - title: "Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving"
     authors: <strong>Yu Yang*</strong>, Jianbiao Mei*, Yukai Ma, Siliang Du, Wenqing Chen, Yijie Qian, Yuxiang Feng, Yong Liu
