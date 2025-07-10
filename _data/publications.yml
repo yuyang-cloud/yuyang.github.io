@@ -1,7 +1,7 @@
 main:
 
   - title: "𝒳-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability"
-    authors: <strong>Yu Yang*</strong>, Alan Liang, Jianbiao Mei, Yukai Ma, Yong Liu, Gim Hee Lee
+    authors: <strong>Yu Yang</strong>, Alan Liang, Jianbiao Mei, Yukai Ma, Yong Liu, Gim Hee Lee
     conference_short: arXiv
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2506.13558.pdf
