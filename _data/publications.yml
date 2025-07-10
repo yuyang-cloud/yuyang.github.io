@@ -1,5 +1,15 @@
 main:
 
+  - title: "𝒳-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability"
+    authors: <strong>Yu Yang*</strong>, Alan Liang, Jianbiao Mei, Yukai Ma, Yong Liu, Gim Hee Lee
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2506.13558.pdf
+    page: https://x-scene.github.io/
+    code: https://github.com/yuyang-cloud/X-Scene
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:R_i0GSUcw8AJ:scholar.google.com/&output=citation&scisdr=CgLMcWWMEIL7lq6BedA:AAZF9b8AAAAAaG-HYdCfwdUzjYnUBoYj0U5GfBo&scisig=AAZF9b8AAAAAaG-HYVJXW8A-T-z1kZpmqGWrJB4&scisf=4&ct=citation&cd=-1
+    image: ./assets/img/teaser_X-Scene.webm
+
   - title: "Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving"
     authors: <strong>Yu Yang*</strong>, Jianbiao Mei*, Yukai Ma, Siliang Du, Wenqing Chen, Yijie Qian, Yuxiang Feng, Yong Liu
     conference_short: AAAI
@@ -11,15 +21,13 @@ main:
     notes: Oral
     image: ./assets/img/teaser_Drive_OccWorld.gif
 
-  - title: "DQFormer: Towards Unified LiDAR Panoptic Segmentation with Decoupled Queries"
+  - title: "DQFormer: Toward Unified LiDAR Panoptic Segmentation With Decoupled Queries for Large-Scale Outdoor Scenes"
     authors: <strong>Yu Yang*</strong>, Jianbiao Mei*, Liang Liu, Siliang Du, Yilin Xiao, Jongwon Ra, Yong Liu, Xiao Xu, Huifeng Wu
-    conference_short: arXiv
-    conference: arXiv, 2024.
-    pdf: https://arxiv.org/pdf/2408.15813.pdf
+    conference_short: TGRS
+    conference: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 63, 1-15, 2025.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10955713
     code: https://github.com/yuyang-cloud/DQFormer
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ut5DdNVMGGsJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxKsOs:AFWwaeYAAAAAZ1hMqOscujRnkbbR1hpGBcbOj4k&scisig=AFWwaeYAAAAAZ1hMqFTeAqu20QA60TO6wQaiFKc&scisf=4&ct=citation&cd=-1
-    # notes: Under Review
     image: ./assets/img/teaser_DQFormer.gif
 
   - title: "Camera-based 3d semantic scene completion with sparse guidance network"
