@@ -13,7 +13,7 @@
   <li><a href="https://iros2024-abudhabi.org/"><autocolor>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4> -->
+<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
