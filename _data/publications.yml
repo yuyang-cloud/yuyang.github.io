@@ -7,7 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2506.13558
     page: https://x-scene.github.io/
     code: https://github.com/yuyang-cloud/X-Scene
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:R_i0GSUcw8AJ:scholar.google.com/&output=citation&scisdr=CgLMcWWMEIL7lq6BedA:AAZF9b8AAAAAaG-HYdCfwdUzjYnUBoYj0U5GfBo&scisig=AAZF9b8AAAAAaG-HYVJXW8A-T-z1kZpmqGWrJB4&scisf=4&ct=citation&cd=-1
+    bibtex: https://arxiv.org/bibtex/2506.13558
     image: ./assets/img/teaser_X-Scene.gif
 
   - title: "Driving in the Occupancy World: Vision-Centric 4D Occupancy Forecasting and Planning via World Models for Autonomous Driving"
@@ -17,18 +17,18 @@ main:
     pdf: https://arxiv.org/abs/2408.14197
     page: https://drive-occworld.github.io/
     code: https://github.com/yuyang-cloud/Drive-OccWorld
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rZT8ZvhiiiwJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxKZn8:AFWwaeYAAAAAZ1hMfn_VMSzuqknXtFZijKm4YXQ&scisig=AFWwaeYAAAAAZ1hMfh5vz7jvkJFpo8GOBW1eOuo&scisf=4&ct=citation&cd=-1
+    bibtex: https://arxiv.org/bibtex/2408.14197
     notes: Oral
     image: ./assets/img/teaser_Drive_OccWorld.gif
 
   - title: "DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes"
-    authors: Jianbiao Mei, Tao Hu, Xuemeng Yang, Licheng Wen, <strong>Yu Yang*</strong>, Tiantian Wei, Yukai Ma, Min Dou, Botian Shi, Yong Liu
+    authors: Jianbiao Mei, Tao Hu, Xuemeng Yang, Licheng Wen, <strong>Yu Yang</strong>, Tiantian Wei, Yukai Ma, Min Dou, Botian Shi, Yong Liu
     conference_short: arXiv
     conference: arXiv, 2024.
     pdf: https://arxiv.org/abs/2409.04003
     page: https://pjlab-adg.github.io/DriveArena/dreamforge/
     code: https://github.com/PJLab-ADG/DriveArena
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rZT8ZvhiiiwJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxKZn8:AFWwaeYAAAAAZ1hMfn_VMSzuqknXtFZijKm4YXQ&scisig=AFWwaeYAAAAAZ1hMfh5vz7jvkJFpo8GOBW1eOuo&scisf=4&ct=citation&cd=-1
+    bibtex: https://arxiv.org/bibtex/2409.04003
     image: ./assets/img/teaser_DreamForge.gif
 
   - title: "DQFormer: Toward Unified LiDAR Panoptic Segmentation With Decoupled Queries for Large-Scale Outdoor Scenes"
@@ -37,7 +37,7 @@ main:
     conference: IEEE Transactions on Geoscience and Remote Sensing (TGRS), 63, 1-15, 2025.
     pdf: https://ieeexplore.ieee.org/abstract/document/10955713
     code: https://github.com/yuyang-cloud/DQFormer
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ut5DdNVMGGsJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxKsOs:AFWwaeYAAAAAZ1hMqOscujRnkbbR1hpGBcbOj4k&scisig=AFWwaeYAAAAAZ1hMqFTeAqu20QA60TO6wQaiFKc&scisf=4&ct=citation&cd=-1
+    bibtex: https://arxiv.org/bibtex/2408.15813
     image: ./assets/img/teaser_DQFormer.gif
 
   - title: "Camera-based 3d semantic scene completion with sparse guidance network"
@@ -46,7 +46,7 @@ main:
     conference: IEEE Transactions on Image Processing (TIP), 33, 5468-5481.
     pdf: https://ieeexplore.ieee.org/document/10694710
     code: https://github.com/Jieqianyu/SGN
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:d0So8DWHYPUJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxK-SM:AFWwaeYAAAAAZ1hM4SOwalBw8TNUlyGt9r0gRpg&scisig=AFWwaeYAAAAAZ1hM4WGAFfbYPcTttgf1UuOfB9E&scisf=4&ct=citation&cd=-1
+    bibtex: https://arxiv.org/bibtex/2312.05752
     image: ./assets/img/teaser_SGN.png
 
   - title: "Exploit Spatiotemporal Contextual Information for 3D Single Object Tracking via Memory Networks"
@@ -54,7 +54,7 @@ main:
     conference_short: 3DV
     conference: International Conference on 3D Vision <strong>(3DV)</strong>, 2024.
     pdf: https://ieeexplore.ieee.org/abstract/document/10550656
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kNAElFBpemsJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxK55U:AFWwaeYAAAAAZ1hM_5W4I-5nSaRET9_cqzQ7j2k&scisig=AFWwaeYAAAAAZ1hM_-bMqN3iN2oMh9RwWLAr1dw&scisf=4&ct=citation&cd=-1
+    bibtex: https://ieeexplore.ieee.org/document/10550656
     image: ./assets/img/teaser_SCTrack.png
 
   - title: "CenterLPS: Segment Instances by Centers for LiDAR Panoptic Segmentation"
@@ -62,7 +62,7 @@ main:
     conference_short: ACM MM
     conference: Proceedings of the 31st ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2023.
     pdf: https://dl.acm.org/doi/abs/10.1145/3581783.3612080
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:S6xv2yoyqOwJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxLAso:AFWwaeYAAAAAZ1hNGsrVlNwjQYGUmI5W7OueDl8&scisig=AFWwaeYAAAAAZ1hNGhXtyaiVGDHHuUHxx4YOJfg&scisf=4&ct=citation&cd=-1
+    bibtex: https://dl.acm.org/doi/abs/10.1145/3581783.3612080
     image: ./assets/img/teaser_CenterLPS.png
 
   - title: "PANet: LiDAR Panoptic Segmentation with Sparse Instance Proposal and Aggregation"
@@ -71,7 +71,7 @@ main:
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2023.
     pdf: https://arxiv.org/abs/2306.15348
     code: https://github.com/Jieqianyu/PANet
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:4Yf17TF42JIJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxLJf8:AFWwaeYAAAAAZ1hNPf9S7eE6NYGo4FkoEYFycGs&scisig=AFWwaeYAAAAAZ1hNPSoiJD_QDyTFEl87E7Vyf3M&scisf=4&ct=citation&cd=-1
+    bibtex: https://arxiv.org/bibtex/2306.15348
     image: ./assets/img/teaser_PANet.png
 
   - title: "SSC-RS: Elevate LiDAR Semantic Scene Completion with Representation Separation and BEV Fusion"
@@ -80,13 +80,13 @@ main:
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2023.
     pdf: https://arxiv.org/abs/2306.15349
     code: https://github.com/Jieqianyu/SSC-RS
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:lviY3mkJDK0J:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxLT9I:AFWwaeYAAAAAZ1hNV9JXn-Y6AyVYuYpGdTCMMEc&scisig=AFWwaeYAAAAAZ1hNVwYgBBrzcGgvCMJXDMvNgJ4&scisf=4&ct=citation&cd=-1
+    bibtex: https://arxiv.org/bibtex/2306.15349
     image: ./assets/img/teaser_SSCRS.png
 
   - title: "Exploiting semantic-level affinities with a mask-guided network for temporal action proposal in videos"
     authors: <strong>Yu Yang</strong>, Mengmeng Wang, Jianbiao Mei, Yong Liu
     conference_short: APIN
     conference: Applied Intelligence, 53(12), 15516-15536.
-    pdf: https://link.springer.com/content/pdf/10.1007/s10489-022-04261-1.pdf
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:813Iw6mHgZYJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxLmqc:AFWwaeYAAAAAZ1hNgqdfHMvpV38Zv3Z-VjGEo0g&scisig=AFWwaeYAAAAAZ1hNgnBElhZH71XHmNDVf3pTkqk&scisf=4&ct=citation&cd=-1
+    pdf: https://link.springer.com/article/10.1007/s10489-022-04261-1
+    bibtex: https://link.springer.com/article/10.1007/s10489-022-04261-1
     image: ./assets/img/teaser_MGNet.png
