@@ -4,7 +4,7 @@ main:
     authors: <strong>Yu Yang</strong>, Alan Liang, Jianbiao Mei, Yukai Ma, Yong Liu, Gim Hee Lee
     conference_short: arXiv
     conference: arXiv, 2025.
-    pdf: https://arxiv.org/pdf/2506.13558.pdf
+    pdf: https://arxiv.org/abs/2506.13558
     page: https://x-scene.github.io/
     code: https://github.com/yuyang-cloud/X-Scene
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:R_i0GSUcw8AJ:scholar.google.com/&output=citation&scisdr=CgLMcWWMEIL7lq6BedA:AAZF9b8AAAAAaG-HYdCfwdUzjYnUBoYj0U5GfBo&scisig=AAZF9b8AAAAAaG-HYVJXW8A-T-z1kZpmqGWrJB4&scisf=4&ct=citation&cd=-1
@@ -14,12 +14,22 @@ main:
     authors: <strong>Yu Yang*</strong>, Jianbiao Mei*, Yukai Ma, Siliang Du, Wenqing Chen, Yijie Qian, Yuxiang Feng, Yong Liu
     conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2025.
-    pdf: https://arxiv.org/pdf/2408.14197.pdf
+    pdf: https://arxiv.org/abs/2408.14197
     page: https://drive-occworld.github.io/
     code: https://github.com/yuyang-cloud/Drive-OccWorld
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rZT8ZvhiiiwJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxKZn8:AFWwaeYAAAAAZ1hMfn_VMSzuqknXtFZijKm4YXQ&scisig=AFWwaeYAAAAAZ1hMfh5vz7jvkJFpo8GOBW1eOuo&scisf=4&ct=citation&cd=-1
     notes: Oral
     image: ./assets/img/teaser_Drive_OccWorld.gif
+
+  - title: "DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes"
+    authors: Jianbiao Mei, Tao Hu, Xuemeng Yang, Licheng Wen, <strong>Yu Yang*</strong>, Tiantian Wei, Yukai Ma, Min Dou, Botian Shi, Yong Liu
+    conference_short: arXiv
+    conference: arXiv, 2024.
+    pdf: https://arxiv.org/abs/2409.04003
+    page: https://pjlab-adg.github.io/DriveArena/dreamforge/
+    code: https://github.com/PJLab-ADG/DriveArena
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rZT8ZvhiiiwJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxKZn8:AFWwaeYAAAAAZ1hMfn_VMSzuqknXtFZijKm4YXQ&scisig=AFWwaeYAAAAAZ1hMfh5vz7jvkJFpo8GOBW1eOuo&scisf=4&ct=citation&cd=-1
+    image: ./assets/img/teaser_DreamForge.gif
 
   - title: "DQFormer: Toward Unified LiDAR Panoptic Segmentation With Decoupled Queries for Large-Scale Outdoor Scenes"
     authors: <strong>Yu Yang*</strong>, Jianbiao Mei*, Liang Liu, Siliang Du, Yilin Xiao, Jongwon Ra, Yong Liu, Xiao Xu, Huifeng Wu
@@ -59,7 +69,7 @@ main:
     authors: Jianbiao Mei*, <strong>Yu Yang*</strong>, Mengmeng Wang, Xiaojun Hou, Laijian Li, Yong Liu
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.15348.pdf
+    pdf: https://arxiv.org/abs/2306.15348
     code: https://github.com/Jieqianyu/PANet
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:4Yf17TF42JIJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxLJf8:AFWwaeYAAAAAZ1hNPf9S7eE6NYGo4FkoEYFycGs&scisig=AFWwaeYAAAAAZ1hNPSoiJD_QDyTFEl87E7Vyf3M&scisf=4&ct=citation&cd=-1
     image: ./assets/img/teaser_PANet.png
@@ -68,7 +78,7 @@ main:
     authors: Jianbiao Mei, <strong>Yu Yang</strong>, Mengmeng Wang, Tianxin Huang, Xuemeng Yang, Yong Liu
     conference_short: IROS
     conference: IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.15349.pdf
+    pdf: https://arxiv.org/abs/2306.15349
     code: https://github.com/Jieqianyu/SSC-RS
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:lviY3mkJDK0J:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxLT9I:AFWwaeYAAAAAZ1hNV9JXn-Y6AyVYuYpGdTCMMEc&scisig=AFWwaeYAAAAAZ1hNVwYgBBrzcGgvCMJXDMvNgJ4&scisf=4&ct=citation&cd=-1
     image: ./assets/img/teaser_SSCRS.png
@@ -78,6 +88,5 @@ main:
     conference_short: APIN
     conference: Applied Intelligence, 53(12), 15516-15536.
     pdf: https://link.springer.com/content/pdf/10.1007/s10489-022-04261-1.pdf
-    # code: https://github.com/Jieqianyu/SSC-RS
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:813Iw6mHgZYJ:scholar.google.com/&output=citation&scisdr=ClHXxVHbEL_qkMxLmqc:AFWwaeYAAAAAZ1hNgqdfHMvpV38Zv3Z-VjGEo0g&scisig=AFWwaeYAAAAAZ1hNgnBElhZH71XHmNDVf3pTkqk&scisf=4&ct=citation&cd=-1
     image: ./assets/img/teaser_MGNet.png

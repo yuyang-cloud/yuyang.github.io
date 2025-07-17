@@ -9,9 +9,9 @@ Additionally, I am a visiting Ph.D. student at the **National University of Sing
 
 ## Research Interests
 
-- **3D Computer Vision**: 3D Perception and Understanding (*e.g.*, 3D object detection, 3D panoptic segmentation); Point Cloud Processing (*e.g.*, moving object segmentation, terrain estimation).
-- **Autonomous Driving**: World Models, End-to-end Autonomous Driving.
 - **Generative Models**: 3D and 4D Scene Generation, Dynamic Scene Generation.
+- **World Models**: Generative World Models, End-to-end Autonomous Driving.
+- **3D Computer Vision**: 3D Perception, Scene Understanding. 
 
 ## News
 
@@ -26,8 +26,9 @@ Additionally, I am a visiting Ph.D. student at the **National University of Sing
 
 ## Awards and Honors
 
+- China Scholarship Council (CSC) Scholarship, 2025
 - Academic Scholarship, Faculty Scholarship, 2023
-- National Scholarship, 2019
+- National Scholarship (国家奖学金), 2019
 - First Prize in the National Undergraduate Electronic Design Competition (Top 2.4%), 2019
 - Academician Scholarship, Faculty Scholarship, 2020,2019,2018
 
