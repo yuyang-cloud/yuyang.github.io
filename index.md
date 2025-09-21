@@ -18,7 +18,7 @@ Additionally, I am a visiting Ph.D. student at the **National University of Sing
 - **[Sep. 2025]** 🎉 Our paper [𝒳-Scene](https://x-scene.github.io/) is accepted by *NeurIPS 2025* !
 - **[Feb. 2025]** 📢 I joined the [CVRP Lab](https://www.comp.nus.edu.sg/~leegh/) at NUS as a visiting Ph.D. student.
 - **[Dec. 2024]** 🎉 Our paper [Drive-OccWorld](https://drive-occworld.github.io/) is accepted by *AAAI 2025 <span style="color: red;">(Oral)</span>* !
-- **[Sep. 2024]** 🎉 Our paper [SGN](https://arxiv.org/abs/2312.05752) is accepted by *IEEE Transactions on Image Processing (TIP) 2024* !
+- **[Sep. 2024]** 🎉 Our paper [SGN](https://ieeexplore.ieee.org/document/10694710) is accepted by *IEEE Trans. on Image Processing (TIP) 2024* !
 - **[Jul. 2023]** 🎉 Our paper [CenterLPS](https://dl.acm.org/doi/abs/10.1145/3581783.3612080) is accepted by *ACM MM 2023* !
 
 {% include_relative _includes/publications.md %}
