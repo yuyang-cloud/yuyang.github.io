@@ -2,8 +2,8 @@ main:
 
   - title: "𝒳-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability"
     authors: <strong>Yu Yang</strong>, Alan Liang, Jianbiao Mei, Yukai Ma, Yong Liu, Gim Hee Lee
-    conference_short: arXiv
-    conference: arXiv, 2025.
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems (NeurIPS), 2025.
     pdf: https://arxiv.org/abs/2506.13558
     page: https://x-scene.github.io/
     code: https://github.com/yuyang-cloud/X-Scene
