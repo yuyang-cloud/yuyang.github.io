@@ -23,11 +23,11 @@ Additionally, I am a visiting Ph.D. student at the **National University of Sing
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/internship.md %}
+<!-- {% include_relative _includes/internship.md %} -->
 
 ## Awards and Honors
 
-- China Scholarship Council (CSC) Scholarship, 2025
+<!-- - China Scholarship Council (CSC) Scholarship, 2025 -->
 - Academic Scholarship, Faculty Scholarship, 2023
 - National Scholarship (国家奖学金), 2019
 - First Prize in the National Undergraduate Electronic Design Competition (Top 2.4%), 2019
