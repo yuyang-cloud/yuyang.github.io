@@ -23,7 +23,7 @@ Additionally, I am a visiting Ph.D. student at the **National University of Sing
 
 {% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/internship.md %} -->
+{% include_relative _includes/internship.md %}
 
 ## Awards and Honors
 
