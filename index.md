@@ -15,6 +15,7 @@ Additionally, I am a visiting Ph.D. student at the **National University of Sing
 
 ## News
 
+- **[Oct. 2025]** 🎉 Our paper [LiDARCrafter](https://lidarcrafter.github.io/) is accepted by *AAAI 2026* <span style="color: red;">(Oral)</span>* !
 - **[Sep. 2025]** 🎉 Our paper [𝒳-Scene](https://x-scene.github.io/) is accepted by *NeurIPS 2025* !
 - **[Feb. 2025]** 📢 I joined the [CVRP Lab](https://www.comp.nus.edu.sg/~leegh/) at NUS as a visiting Ph.D. student.
 - **[Dec. 2024]** 🎉 Our paper [Drive-OccWorld](https://drive-occworld.github.io/) is accepted by *AAAI 2025 <span style="color: red;">(Oral)</span>* !
@@ -27,7 +28,7 @@ Additionally, I am a visiting Ph.D. student at the **National University of Sing
 
 ## Awards and Honors
 
-<!-- - China Scholarship Council (CSC) Scholarship, 2025 -->
+- China Scholarship Council (CSC) Scholarship, 2025
 - Academic Scholarship, Faculty Scholarship, 2023
 - National Scholarship (国家奖学金), 2019
 - First Prize in the National Undergraduate Electronic Design Competition (Top 2.4%), 2019

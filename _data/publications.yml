@@ -1,5 +1,16 @@
 main:
 
+  - title: "LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences"
+    authors:  Alan Liang, Youquan Liu, <strong>Yu Yang</strong>, Dongyue Lu, Linfeng Li, Lingdong Kong, Huaici Zhao, Wei Tsang Ooi
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026.
+    pdf: https://arxiv.org/abs/2508.03692
+    page: https://lidarcrafter.github.io/
+    code: https://github.com/worldbench/LiDARCrafter
+    bibtex: https://arxiv.org/bibtex/2508.03692
+    notes: Oral
+    image: ./assets/img/teaser_LiDARCrafter.gif
+
   - title: "𝒳-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability"
     authors: <strong>Yu Yang</strong>, Alan Liang, Jianbiao Mei, Yukai Ma, Yong Liu, Gim Hee Lee
     conference_short: NeurIPS
