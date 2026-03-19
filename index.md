@@ -15,6 +15,7 @@ Additionally, I am a visiting Ph.D. student at the **National University of Sing
 
 ## News
 
+- **[Feb. 2026]** 🎉 Our paper [IR-WM](https://github.com/yuyang-cloud/Drive-OccWorld/tree/ir-wm) is accepted by *ICRA 2026* !
 - **[Oct. 2025]** 🎉 Our paper [LiDARCrafter](https://lidarcrafter.github.io/) is accepted by *AAAI 2026* <span style="color: red;">(Oral)</span>* !
 - **[Sep. 2025]** 🎉 Our paper [𝒳-Scene](https://x-scene.github.io/) is accepted by *NeurIPS 2025* !
 - **[Feb. 2025]** 📢 I joined the [CVRP Lab](https://www.comp.nus.edu.sg/~leegh/) at NUS as a visiting Ph.D. student.

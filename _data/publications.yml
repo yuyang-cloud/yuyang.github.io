@@ -1,15 +1,14 @@
 main:
 
-  - title: "LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences"
-    authors:  Alan Liang, Youquan Liu, <strong>Yu Yang</strong>, Dongyue Lu, Linfeng Li, Lingdong Kong, Huaici Zhao, Wei Tsang Ooi
-    conference_short: AAAI
-    conference: Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2026.
-    pdf: https://arxiv.org/abs/2508.03692
-    page: https://lidarcrafter.github.io/
-    code: https://github.com/worldbench/LiDARCrafter
-    bibtex: https://arxiv.org/bibtex/2508.03692
-    notes: Oral
-    image: ./assets/img/teaser_LiDARCrafter.gif
+  - title: "Vision-Centric 4D Occupancy Forecasting and Planning via Implicit Residual World Models"
+    authors:  Jianbiao Mei*, <strong>Yu Yang*</strong>, Xuemeng Yang, Licheng Wen, Jiajun Lv, Botian Shi, Yong Liu
+    conference_short: ICRA
+    conference: IEEE International Conference on Robotics & Automation (ICRA), 2026.
+    pdf: https://arxiv.org/abs/2510.16729
+    page: https://github.com/yuyang-cloud/Drive-OccWorld/tree/ir-wm
+    code: https://github.com/yuyang-cloud/Drive-OccWorld/tree/ir-wm
+    bibtex: https://arxiv.org/bibtex/2510.16729
+    image: ./assets/img/teaser_IR-WM.gif
 
   - title: "𝒳-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability"
     authors: <strong>Yu Yang</strong>, Alan Liang, Jianbiao Mei, Yukai Ma, Yong Liu, Gim Hee Lee
